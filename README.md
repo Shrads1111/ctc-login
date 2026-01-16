@@ -57,8 +57,8 @@ CareCompass is a healthcare application backend and frontend designed to assist 
    # For MongoDB Atlas (replace with your connection string)
    # MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/carecompass
    
-   # Server Port (optional, defaults to 3000)
-   PORT=3000
+   # Server Port (optional, defaults to 5001)
+   PORT=5001
    ```
 
 4. **Migrate Existing Data (if you have db.json):**
@@ -84,7 +84,7 @@ CareCompass is a healthcare application backend and frontend designed to assist 
    ```
 
 3. Open your browser and navigate to:
-   `http://localhost:3000`
+   `http://localhost:5001`
 
 ## 🔐 Credentials
 
